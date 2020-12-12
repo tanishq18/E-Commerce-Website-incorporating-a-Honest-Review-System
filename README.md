@@ -1,4 +1,4 @@
-# -E-Commerce-Website-incorporating-a-Honest-Review-System
+# E-Commerce-Website-incorporating-a-Honest-Review-System
 
 Project link: https://wadhwanit.wixsite.com/truecommerce <br>
 
